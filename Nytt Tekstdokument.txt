@@ -1,0 +1,16 @@
+<DOCTYPE html>
+<html>
+
+<h1 style="background-color:red;font-family:verdana;color:black;border:3px black;text-align:center;font-size:500%;"> Call of duty </h1>
+
+<style>
+body{
+ text-align: center;
+ background-image: url('Call-.avif');
+ background-reapeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+</style>
+
+
